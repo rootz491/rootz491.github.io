@@ -9,4 +9,4 @@ To view my official presence on internet, visit [karansh.codes](https://karansh.
 
 ### Advent Of Javascript
 
-check it out [here](/advent-of-code-2021.html)!
+check it out [here](/advent-of-js-2021.html)!
